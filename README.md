@@ -170,3 +170,28 @@ I/EtudiantService: getAll → 2 étudiant(s)
 I/EtudiantService: delete(2) → 1 ligne(s)
 I/MainActivity: ═══ TEST LOGCAT FIN ═══
 ```
+
+interface : 
+
+<img width="643" height="1022" alt="image" src="https://github.com/user-attachments/assets/1d671da0-46ec-4553-b8e0-28e87c64717a" />
+
+Ajouter un etudiants : 
+
+<img width="645" height="1024" alt="image" src="https://github.com/user-attachments/assets/bbc1a65e-0aee-487b-86df-682cfdca9127" />
+
+chercher par ID : 
+
+<img width="645" height="1023" alt="image" src="https://github.com/user-attachments/assets/634c40a9-b8de-407f-8dbb-fc389cd4bded" />
+
+
+<img width="642" height="1027" alt="image" src="https://github.com/user-attachments/assets/58ed7021-542f-468e-a613-07daaa1cc392" />
+
+
+supprimer par ID : 
+
+<img width="643" height="1023" alt="image" src="https://github.com/user-attachments/assets/9e00300a-b61d-4251-bfa2-7acd0a2b007d" />
+
+
+<img width="642" height="1024" alt="image" src="https://github.com/user-attachments/assets/fc590f04-f345-45db-95a0-c31031b49156" />
+
+
